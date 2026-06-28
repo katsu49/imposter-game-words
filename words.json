@@ -1,6 +1,15 @@
 {
   "themes": {
     "food_and_drinks": {
+            "name": {
+                "en": "Food & Drinks",
+                "uk": "Їжа та напої",
+                "pl": "Jedzenie i napoje",
+                "de": "Essen & Trinken",
+                "es": "Comida y bebida",
+                "fr": "Nourriture et boissons",
+                "it": "Cibo e bevande"
+            },
       "words": [
         {
           "id": 1,
@@ -1055,6 +1064,15 @@
       ]
     },
     "animals": {
+        "name": {
+            "en": "Animals",
+            "uk": "Тварини",
+            "pl": "Zwierzęta",
+            "de": "Tiere",
+            "es": "Animales",
+            "fr": "Animaux",
+            "it": "Animali"
+        },
       "words": [
         {
           "id": 51,
@@ -2109,6 +2127,15 @@
       ]
     },
     "sports": {
+        "name": {
+            "en": "Sports",
+            "uk": "Спорт",
+            "pl": "Sport",
+            "de": "Sport",
+            "es": "Deportes",
+            "fr": "Sports",
+            "it": "Sport"
+        },
       "words": [
         {
           "id": 101,
@@ -3163,6 +3190,15 @@
       ]
     },
     "professions": {
+        "name": {
+            "en": "Professions",
+            "uk": "Професії",
+            "pl": "Zawody",
+            "de": "Berufe",
+            "es": "Profesiones",
+            "fr": "Professions",
+            "it": "Professioni"
+        },
       "words": [
         {
           "id": 151,
@@ -4217,6 +4253,15 @@
       ]
     },
     "transportation": {
+        "name": {
+            "en": "Transportation",
+            "uk": "Транспорт",
+            "pl": "Transport",
+            "de": "Transport",
+            "es": "Transporte",
+            "fr": "Transport",
+            "it": "Trasporto"
+        },
       "words": [
         {
           "id": 201,
@@ -5271,6 +5316,15 @@
       ]
     },
     "technology": {
+        "name": {
+            "en": "Technology",
+            "uk": "Технології",
+            "pl": "Technologia",
+            "de": "Technologie",
+            "es": "Tecnología",
+            "fr": "Technologie",
+            "it": "Tecnologia"
+        },
       "words": [
         {
           "id": 251,
@@ -6325,6 +6379,15 @@
       ]
     },
     "nature": {
+        "name": {
+            "en": "Nature",
+            "uk": "Природа",
+            "pl": "Przyroda",
+            "de": "Natur",
+            "es": "Naturaleza",
+            "fr": "Nature",
+            "it": "Natura"
+        },
       "words": [
         {
           "id": 301,
